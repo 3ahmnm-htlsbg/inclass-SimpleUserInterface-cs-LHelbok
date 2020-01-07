@@ -1,4 +1,4 @@
-# Unity2019114f1-2D-Template
+# inclass-SimpleUserInterface-cs-Lhelbok
 
 ### Project description: 
 Introduction/Project summary 
@@ -25,4 +25,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by Lhelbok
