@@ -1,27 +1,42 @@
 # inclass-SimpleUserInterface-cs-Lhelbok
 
 ### Project description: 
-Introduction/Project summary 
+
+Exercise to review how to create repositories and clone them, also to build a userinterface with a counter and a text rewriter. 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+
+- Windows 10
+- Visual Studio 2019 Community
+- Unity 2019.1.14f1.1
+- Scripting Runtime Version: .NET 4.X, Mono
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL 1920x780
 
 ### Visuals: 
-Screenshots (concept and experience), Video
 
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+#### Initialized Program
+
+<div>
+<img src = "Screenshots\InitializedProgramjpg.jpg" width = "500">
+</div>
+
+#### Executed Program
+
+<div>
+<img src = "Screenshots\ExecutedProgramjpg.jpg" width = "500">
+</div>
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+
+gitHub Template: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template
 
 ### Project state: 
-incl. progress in percent
+100%
 
 ### Limitations: 
+none
 
 ### Lessons Learned: 
 
