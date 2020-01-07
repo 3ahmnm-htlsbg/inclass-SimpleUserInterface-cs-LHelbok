@@ -190,7 +190,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Teleporter
+  m_Text: Copy Text
 --- !u!222 &181405327
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -446,7 +446,7 @@ RectTransform:
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
   m_AnchoredPosition: {x: -506, y: -155}
-  m_SizeDelta: {x: 223.40002, y: 56.3}
+  m_SizeDelta: {x: 308.2, y: 77.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &524820673
 MonoBehaviour:
@@ -842,7 +842,7 @@ GameObject:
   - component: {fileID: 946864950}
   - component: {fileID: 946864949}
   m_Layer: 5
-  m_Name: TextLocation
+  m_Name: TextCopy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -889,7 +889,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 30
+    m_FontSize: 40
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 3
@@ -979,7 +979,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 1
+  m_Text: 0
 --- !u!222 &1133871653
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1058,7 +1058,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Add 1
+  m_Text: Add one to Counter
 --- !u!222 &1667833567
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1183,7 +1183,7 @@ GameObject:
   - component: {fileID: 2060658159}
   - component: {fileID: 2060658158}
   m_Layer: 5
-  m_Name: ButtonTeleporter
+  m_Name: ButtonCopyText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
