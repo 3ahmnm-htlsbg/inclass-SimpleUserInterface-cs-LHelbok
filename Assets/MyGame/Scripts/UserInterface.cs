@@ -7,6 +7,9 @@ public class UserInterface : MonoBehaviour
 {
     public Text countOne;
     public int counter;
+    public InputField input;
+    public Button textButton;
+    public Text result;
     
     void Start()
     {
@@ -23,5 +26,10 @@ public class UserInterface : MonoBehaviour
     {
             countOne.text = AddOne().ToString();
         
+    }
+
+    public void CopyText()
+    {
+        result.text = input.text;
     }
 }
